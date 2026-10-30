@@ -1,6 +1,6 @@
 <?php
 
-require('./PropertyConstant.php')
+require('./PropertyConstant.php');
 
 use Pbo\Marketplace\Produk;
 
