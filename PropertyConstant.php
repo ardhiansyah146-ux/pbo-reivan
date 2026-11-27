@@ -6,7 +6,7 @@ class Produk {
 
     //property
     private string $kode;
-    private string $name;
+    private string $nama;
     private int $harga;
     private int $stok;
 
